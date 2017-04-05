@@ -1,4 +1,4 @@
-# NodePress › Next Generation Of Wordpress
+# NodePress JS › Next Generation Of Wordpress
 
 It’s built from the ground up with the most powerful and secure tools available in the market place. 
 
